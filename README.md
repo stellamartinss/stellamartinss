@@ -23,7 +23,7 @@ I'm a Senior Software Engineer on a mission to craft impactful solutions. With a
 
 ## 💡 Early Impact
 
-- Transformed processes by automating 95% of tasks as an Intern.
+- Transformed processes by automating 95% of tasks as an Intern at Secretary of Social Development in Palmas.
 - Used ASP.Net MVC and more for innovation.
 
 ## 🌎 Languages
