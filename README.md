@@ -2,7 +2,8 @@
 
 I'm a Senior Software Engineer on a mission to craft impactful solutions. With a proven record in project success and a diverse skill set, I'm committed to pushing boundaries and delivering excellence.
 
-[![LinkedIn]([https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/stella-martins-36708461/)
+[![Connect with me on LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stella-martins-36708461/)
+
 
 ## 🚀 Current Role
 
