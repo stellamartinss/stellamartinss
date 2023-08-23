@@ -1,24 +1,41 @@
-### 👋 Welcome to my GitHub Profile!
+# 👋 Hey there, I'm Stella!
 
-I'm Stella Ribeiro Martins, a results-driven Senior Software Engineer passionate about impactful solutions and pushing boundaries. With a track record of success in project leadership and a versatile skill set, I'm committed to delivering excellence.
+I'm a Senior Software Engineer on a mission to craft impactful solutions. With a proven record in project success and a diverse skill set, I'm committed to pushing boundaries and delivering excellence.
 
-#### 🚀 Professional Journey:
+## 🚀 Current Role
 
-- Senior Software Engineer at Soluevo, leading the frontend team and implementing strategies to deliver projects on time.
-- Software Development Consultant at Thoughtworks, driving impactful features for Lenovo Vantage and Telus.
-- Software Engineer at Edoo, contributing to a 15% profit boost and enhancing user profiles with the "Jobscore" tool.
-- Developed user-focused features at CRP Tecnologia, increasing profits and resolving support issues faster.
+- Tech Lead for the frontend team at Soluevo.
+- Rescued a project 45 days behind schedule with effective strategies.
+- Expertise in JavaScript, TypeScript, React, and Jest.
 
-#### 💡 Early Impact:
+## 🌐 Past Engagements
 
-- Transformed the organ admission process as an Intern - Software Developer, automating 95% of procedures using ASP.Net MVC and more.
+- At Thoughtworks, empowered millions with Lenovo Vantage's voice command feature.
+- Increased user engagement at Telus by 8% with leadership in the "Email Your Cart" feature.
+- Proficient in Angular, .Net Core, and more.
 
-#### 🌎 Languages:
+## 🔧 Previous Experience
 
-Native Portuguese, Fluent English, Strong grasp of Spanish.
+- Led the creation of an online test feature at Edoo, boosting profits by 15%.
+- Enhanced profiles for 800k users with the "Jobscore" tool.
+- Elevated profits and reduced support times at CRP Tecnologia.
+- Skills include Angular, Node.js, and more.
 
-#### 🤝 Collaboration and Beyond:
+## 💡 Early Impact
 
-Thriving in collaborative environments, dedicated to professional excellence, and contributing positively to the tech community.
+- Transformed processes by automating 95% of tasks as an Intern.
+- Used ASP.Net MVC and more for innovation.
 
-Let's connect and explore possibilities together! 🌟 #SoftwareEngineering #TechInnovation #Leadership
+## 🌎 Languages
+
+- Native Portuguese speaker.
+- Fluent in English.
+- Proficient in Spanish.
+
+## 🤝 Collaboration and Beyond
+
+- Thriving in collaborative environments.
+- Dedicated to professional excellence and enriching the tech community.
+- Passionate about innovation, teamwork, and growth.
+
+Let's connect and explore possibilities! 🌟 #SoftwareEngineering #TechInnovation #Leadership
