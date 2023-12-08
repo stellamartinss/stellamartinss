@@ -15,7 +15,7 @@ I'm a Senior Software Engineer on a mission to craft impactful solutions. With a
 
 - At Thoughtworks, empowered millions with Lenovo Vantage's voice command feature.
 - Increased user engagement at Telus by 8% with leadership in the "Email Your Cart" feature.
-- Proficient in Angular, .Net Core, and more.
+- Proficient in React, Node.js, Angular, .Net Core, and more.
 
 ## 🔧 Previous Experience
 
